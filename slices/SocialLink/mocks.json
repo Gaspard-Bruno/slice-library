@@ -1,0 +1,98 @@
+[
+  {
+    "id": "facebook-link",
+    "name": "Facebook Link",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialLink",
+    "primary": {
+      "type": "facebook",
+      "url": {
+        "link_type": "Web",
+        "url": "https://www.facebook.com/prismic.io"
+      }
+    },
+    "items": [],
+    "slice_type": "social_link"
+  },
+  {
+    "id": "instagram-link",
+    "name": "Instagram Link",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialLink",
+    "primary": {
+      "type": "instagram",
+      "url": {
+        "link_type": "Web",
+        "url": "https://www.facebook.com/prismic.io"
+      }
+    },
+    "items": [],
+    "slice_type": "social_link"
+  },
+  {
+    "id": "twitter-link",
+    "name": "Twitter Link",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialLink",
+    "primary": {
+      "type": "twitter",
+      "url": {
+        "link_type": "Web",
+        "url": "https://twitter.com/prismicio"
+      }
+    },
+    "items": [],
+    "slice_type": "social_link"
+  },
+  {
+    "id": "youtube-link",
+    "name": "YouTube Link",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialLink",
+    "primary": {
+      "type": "youtube",
+      "url": {
+        "link_type": "Web",
+        "url": "https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA"
+      }
+    },
+    "items": [],
+    "slice_type": "social_link"
+  },
+  {
+    "id": "Twitch-link",
+    "name": "Twitch Link",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialLink",
+    "primary": {
+      "type": "twitch",
+      "url": {
+        "link_type": "Web",
+        "url": "https://www.facebook.com/prismic.io"
+      }
+    },
+    "items": [],
+    "slice_type": "social_link"
+  },
+  {
+    "id": "soundcloud-link",
+    "name": "Soundcloud Link",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialLink",
+    "primary": {
+      "type": "soundcloud",
+      "url": {
+        "link_type": "Web",
+        "url": "https://www.facebook.com/prismic.io"
+      }
+    },
+    "items": [],
+    "slice_type": "social_link"
+  }
+]

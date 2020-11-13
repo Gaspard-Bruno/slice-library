@@ -1,3 +1,1 @@
-{
-  "libraries": ["@/slices"]
-}
+{"libraries":["@/slices"],"storybook":"http://localhost:8888","apiEndpoint":"https://gb-slices.cdn.prismic.io/api/v2"}

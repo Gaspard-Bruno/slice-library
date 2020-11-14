@@ -1,0 +1,62 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "RichContent",
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "This is a title",
+          "spans": []
+        }
+      ],
+      "content": [
+        {
+          "type": "heading1",
+          "text": "Here it is a h1",
+          "spans": []
+        },
+        {
+          "type": "heading2",
+          "text": "Here it is a h2",
+          "spans": []
+        },
+        {
+          "type": "heading3",
+          "text": "Here it is a h3",
+          "spans": []
+        },
+        {
+          "type": "heading4",
+          "text": "Here it is a h4",
+          "spans": []
+        },
+        {
+          "type": "heading5",
+          "text": "Here it is a h5",
+          "spans": []
+        },
+        {
+          "type": "heading6",
+          "text": "Here it is a h6",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Here it is a paragraph",
+          "spans": []
+        },
+        {
+          "type": "o-list-item",
+          "text": "Here it is a list item",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "rich_content"
+  }
+]

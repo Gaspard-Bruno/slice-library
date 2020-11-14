@@ -94,5 +94,23 @@
     },
     "items": [],
     "slice_type": "social_link"
+  },
+  {
+    "id": "link-with-color-and-size",
+    "name": "Link With Color & Size",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialLink",
+    "primary": {
+      "type": "facebook",
+      "url": {
+        "link_type": "Web",
+        "url": "https://www.facebook.com/prismic.io"
+      },
+      "color": "#C6303D",
+      "size": "40" 
+    },
+    "items": [],
+    "slice_type": "social_link"
   }
 ]

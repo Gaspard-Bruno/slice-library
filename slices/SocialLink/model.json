@@ -27,6 +27,22 @@
             "placeholder": "",
             "allowTargetBlank": true
           }
+        },
+        "color": {
+          "type": "Color",
+          "config": {
+            "label": "",
+            "id": "color",
+            "placeholder": ""
+          }
+        },
+        "size": {
+          "type": "Number",
+          "config": {
+            "label": "",
+            "id": "size",
+            "placeholder": ""
+          }
         }
       },
       "items": {}

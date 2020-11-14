@@ -28,12 +28,28 @@ const icons = [
 const SocialLink = ({ slice }) => {
   const type = useMemo(() => slice?.primary?.type, [slice])
   const url = useMemo(() => slice?.primary?.url?.url, [slice])
+  const color = useMemo(() => slice?.primary?.color, [slice])
+  const size = useMemo(() => slice?.primary?.size, [slice])
 
   const icon = useMemo(() => icons.indexOf(type) !== -1 ? type : null, [type])
 
+  const styles = useMemo(() => {
+    let composedStyles = { ...anchorStyle }
+
+    if (color) {
+      composedStyles.color = color
+    }
+
+    if (size) {
+      composedStyles.fontSize = `${size}px`
+    }
+
+    return composedStyles
+  }, [color, size])
+
   return (
     <section style={sectionStyle}>
-      <a href={url} target="_blank" style={anchorStyle}>
+      <a href={url} target="_blank" style={styles}>
         <FontAwesomeIcon icon={['fab', icon]} />
       </a>
     </section>

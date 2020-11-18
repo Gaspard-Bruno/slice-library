@@ -1,0 +1,49 @@
+{
+  "id": "model_viewer",
+  "type": "SharedSlice",
+  "name": "ModelViewer",
+  "description": "ModelViewer",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "ModelViewer",
+      "primary": {
+        "model": {
+          "type": "Link",
+          "config": {
+            "label": "",
+            "id": "model",
+            "placeholder": "",
+            "allowTargetBlank": true
+          }
+        },
+        "cameraControls": {
+          "type": "Boolean",
+          "config": {
+            "label": "",
+            "id": "cameraControls",
+            "placeholder": "",
+            "placeholder_false": "false",
+            "placeholder_true": "true",
+            "default_value": true
+          }
+        },
+        "autoRotate": {
+          "type": "Boolean",
+          "config": {
+            "label": "",
+            "id": "autoRotate",
+            "placeholder": "",
+            "placeholder_false": "false",
+            "placeholder_true": "true",
+            "default_value": true
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

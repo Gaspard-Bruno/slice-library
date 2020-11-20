@@ -1,0 +1,45 @@
+{
+  "id": "preview_list",
+  "type": "SharedSlice",
+  "name": "PreviewList",
+  "description": "PreviewList",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "PreviewList",
+      "primary": {},
+      "items": {
+        "content": {
+          "config": {
+            "label": "",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,rtl"
+          },
+          "type": "StructuredText"
+        },
+        "url": {
+          "type": "Link",
+          "config": {
+            "label": "",
+            "id": "url",
+            "placeholder": "",
+            "allowTargetBlank": true
+          }
+        },
+        "preview": {
+          "type": "Image",
+          "config": {
+            "id": "preview",
+            "label": "",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      }
+    }
+  ]
+}

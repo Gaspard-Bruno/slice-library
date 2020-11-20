@@ -1,0 +1,62 @@
+{
+  "id": "social_share",
+  "type": "SharedSlice",
+  "name": "SocialShare",
+  "description": "SocialShare",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "SocialShare",
+      "primary": {
+        "type": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "id": "type",
+            "placeholder": ""
+          }
+        },
+        "url": {
+          "type": "Link",
+          "config": {
+            "label": "",
+            "id": "url",
+            "placeholder": "",
+            "allowTargetBlank": true
+          }
+        },
+        "color": {
+          "type": "Color",
+          "config": {
+            "label": "",
+            "id": "color",
+            "placeholder": ""
+          }
+        },
+        "size": {
+          "type": "Number",
+          "config": {
+            "label": "",
+            "id": "size",
+            "placeholder": ""
+          }
+        },
+        "round": {
+          "type": "Boolean",
+          "config": {
+            "label": "",
+            "id": "round",
+            "placeholder": "",
+            "placeholder_false": "false",
+            "placeholder_true": "true",
+            "default_value": true
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

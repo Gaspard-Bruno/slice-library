@@ -1,0 +1,192 @@
+[
+  {
+    "id": "social-share-default",
+    "name": "Default",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialShare",
+    "primary": {
+      "type": "facebook",
+      "url": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "color": "#fff",
+      "size": 30,
+      "round": true
+    },
+    "items": [],
+    "slice_type": "social_share"
+  },
+  {
+    "id": "social-share-big",
+    "name": "Big & Not Round",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialShare",
+    "primary": {
+      "type": "facebook",
+      "url": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "color": "#fff",
+      "size": 50,
+      "round": false
+    },
+    "items": [],
+    "slice_type": "social_share"
+  },
+  {
+    "id": "social-share-color",
+    "name": "Alternative Color",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialShare",
+    "primary": {
+      "type": "facebook",
+      "url": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "color": "#ffda77",
+      "size": 30,
+      "round": true
+    },
+    "items": [],
+    "slice_type": "social_share"
+  },
+  {
+    "id": "social-share-twitter",
+    "name": "Twitter",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialShare",
+    "primary": {
+      "type": "twitter",
+      "url": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "color": "#fff",
+      "size": 30,
+      "round": true
+    },
+    "items": [],
+    "slice_type": "social_share"
+  },
+  {
+    "id": "social-share-email",
+    "name": "Email",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialShare",
+    "primary": {
+      "type": "email",
+      "url": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "color": "#fff",
+      "size": 30,
+      "round": true
+    },
+    "items": [],
+    "slice_type": "social_share"
+  },
+  {
+    "id": "social-share-email",
+    "name": "Email",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialShare",
+    "primary": {
+      "type": "email",
+      "url": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "color": "#fff",
+      "size": 30,
+      "round": true
+    },
+    "items": [],
+    "slice_type": "social_share"
+  },
+  {
+    "id": "social-share-email",
+    "name": "Email",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialShare",
+    "primary": {
+      "type": "email",
+      "url": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "color": "#fff",
+      "size": 30,
+      "round": true
+    },
+    "items": [],
+    "slice_type": "social_share"
+  },
+  {
+    "id": "social-share-reddit",
+    "name": "Reddit",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialShare",
+    "primary": {
+      "type": "reddit",
+      "url": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "color": "#fff",
+      "size": 30,
+      "round": true
+    },
+    "items": [],
+    "slice_type": "social_share"
+  },
+  {
+    "id": "social-share-whatsapp",
+    "name": "Whatsapp",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialShare",
+    "primary": {
+      "type": "whatsapp",
+      "url": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "color": "#fff",
+      "size": 30,
+      "round": true
+    },
+    "items": [],
+    "slice_type": "social_share"
+  },
+  {
+    "id": "social-share-pinterest",
+    "name": "Pinterest",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SocialShare",
+    "primary": {
+      "type": "pinterest",
+      "url": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "color": "#fff",
+      "size": 30,
+      "round": true
+    },
+    "items": [],
+    "slice_type": "social_share"
+  }
+]

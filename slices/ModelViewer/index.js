@@ -1,5 +1,5 @@
 import React, { useRef, useMemo } from 'react';
-import { shape, string, boolean } from 'prop-types';
+import PropTypes from 'prop-types';
 import { RichText } from 'prismic-reactjs';
 
 const section = {
@@ -29,11 +29,11 @@ const ModelViewer = ({ slice }) => {
 }
 
 ModelViewer.propTypes = {
-  slice: shape({
-    primary: shape({
-      model: string.isRequired,
-      cameraControls: boolean,
-      autoRotate: boolean,
+  slice: PropTypes.shape({
+    primary: PropTypes.shape({
+      model: PropTypes.object.isRequired,
+      cameraControls: PropTypes.bool,
+      autoRotate: PropTypes.bool,
     }).isRequired,
   }).isRequired,
 };

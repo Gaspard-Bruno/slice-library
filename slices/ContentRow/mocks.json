@@ -1,0 +1,373 @@
+[
+  {
+    "id": "content-row-default",
+    "name": "Default",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ContentRow",
+    "primary": {
+      "gridSize": 12
+    },
+    "items": [
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "Left Content",
+            "spans": []
+          },
+          {
+            "type": "heading3",
+            "text": "It occupies 6 columns of the grid",
+            "spans": []
+          }
+        ],
+        "columnSize": 6,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "Right Content",
+            "spans": []
+          },
+          {
+            "type": "heading3",
+            "text": "It occupies 6 columns of the grid",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tempus leo, quis accumsan lorem. Nullam quis ligula quis augue tempor fringilla. Nulla egestas nunc laoreet viverra suscipit. Proin a bibendum dui. Proin nulla odio, tempus nec leo eu, feugiat sollicitudin arcu. Duis feugiat rhoncus sem quis fermentum. Aenean augue est, volutpat eget ante pellentesque, tempor scelerisque felis. In ultrices fermentum risus. Aenean ac mi arcu. Quisque et massa et nunc sodales maximus. Etiam nec mi nec nunc auctor rutrum at in libero.",
+            "spans": []
+          }
+        ],
+        "columnSize": 6,
+        "spacerColumn": false
+      }
+    ],
+    "slice_type": "content_row"
+  },
+  {
+    "id": "content-row-spacer",
+    "name": "With Spacer Columns",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ContentRow",
+    "primary": {
+      "gridSize": 12
+    },
+    "items": [
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "Left Content",
+            "spans": []
+          },
+          {
+            "type": "heading3",
+            "text": "It occupies 4 columns of the grid",
+            "spans": []
+          }
+        ],
+        "columnSize": 4,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [],
+        "columnSize": 2,
+        "spacerColumn": true
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "Right Content",
+            "spans": []
+          },
+          {
+            "type": "heading3",
+            "text": "It occupies 6 columns of the grid",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tempus leo, quis accumsan lorem. Nullam quis ligula quis augue tempor fringilla. Nulla egestas nunc laoreet viverra suscipit. Proin a bibendum dui. Proin nulla odio, tempus nec leo eu, feugiat sollicitudin arcu. Duis feugiat rhoncus sem quis fermentum. Aenean augue est, volutpat eget ante pellentesque, tempor scelerisque felis. In ultrices fermentum risus. Aenean ac mi arcu. Quisque et massa et nunc sodales maximus. Etiam nec mi nec nunc auctor rutrum at in libero.",
+            "spans": []
+          }
+        ],
+        "columnSize": 6,
+        "spacerColumn": false
+      }
+    ],
+    "slice_type": "content_row"
+  },
+  {
+    "id": "content-row-multiple",
+    "name": "Multiple Columns & Spacer",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ContentRow",
+    "primary": {
+      "gridSize": 12
+    },
+    "items": [
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "First Content",
+            "spans": []
+          },
+          {
+            "type": "heading3",
+            "text": "2 columns",
+            "spans": []
+          }
+        ],
+        "columnSize": 2,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "Second Content",
+            "spans": []
+          },
+          {
+            "type": "heading3",
+            "text": "2 columns",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tempus leo, quis accumsan lorem. Nullam quis ligula quis augue tempor fringilla. Nulla egestas nunc laoreet viverra suscipit. Proin a bibendum dui. Proin nulla odio, tempus nec leo eu, feugiat sollicitudin arcu. Duis feugiat rhoncus sem quis fermentum. Aenean augue est, volutpat eget ante pellentesque, tempor scelerisque felis. In ultrices fermentum risus. Aenean ac mi arcu. Quisque et massa et nunc sodales maximus. Etiam nec mi nec nunc auctor rutrum at in libero.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tempus leo, quis accumsan lorem. Nullam quis ligula quis augue tempor fringilla. Nulla egestas nunc laoreet viverra suscipit. Proin a bibendum dui. Proin nulla odio, tempus nec leo eu, feugiat sollicitudin arcu. Duis feugiat rhoncus sem quis fermentum. Aenean augue est, volutpat eget ante pellentesque, tempor scelerisque felis. In ultrices fermentum risus. Aenean ac mi arcu. Quisque et massa et nunc sodales maximus. Etiam nec mi nec nunc auctor rutrum at in libero.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tempus leo, quis accumsan lorem. Nullam quis ligula quis augue tempor fringilla. Nulla egestas nunc laoreet viverra suscipit. Proin a bibendum dui. Proin nulla odio, tempus nec leo eu, feugiat sollicitudin arcu. Duis feugiat rhoncus sem quis fermentum. Aenean augue est, volutpat eget ante pellentesque, tempor scelerisque felis. In ultrices fermentum risus. Aenean ac mi arcu. Quisque et massa et nunc sodales maximus. Etiam nec mi nec nunc auctor rutrum at in libero.",
+            "spans": []
+          }
+        ],
+        "columnSize": 2,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [],
+        "columnSize": 2,
+        "spacerColumn": true
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "Third Content",
+            "spans": []
+          },
+          {
+            "type": "heading3",
+            "text": "It occupies 6 columns of the grid",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tempus leo, quis accumsan lorem. Nullam quis ligula quis augue tempor fringilla. Nulla egestas nunc laoreet viverra suscipit. Proin a bibendum dui. Proin nulla odio, tempus nec leo eu, feugiat sollicitudin arcu. Duis feugiat rhoncus sem quis fermentum. Aenean augue est, volutpat eget ante pellentesque, tempor scelerisque felis. In ultrices fermentum risus. Aenean ac mi arcu. Quisque et massa et nunc sodales maximus. Etiam nec mi nec nunc auctor rutrum at in libero.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tempus leo, quis accumsan lorem. Nullam quis ligula quis augue tempor fringilla. Nulla egestas nunc laoreet viverra suscipit. Proin a bibendum dui. Proin nulla odio, tempus nec leo eu, feugiat sollicitudin arcu. Duis feugiat rhoncus sem quis fermentum. Aenean augue est, volutpat eget ante pellentesque, tempor scelerisque felis. In ultrices fermentum risus. Aenean ac mi arcu. Quisque et massa et nunc sodales maximus. Etiam nec mi nec nunc auctor rutrum at in libero.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tempus leo, quis accumsan lorem. Nullam quis ligula quis augue tempor fringilla. Nulla egestas nunc laoreet viverra suscipit. Proin a bibendum dui. Proin nulla odio, tempus nec leo eu, feugiat sollicitudin arcu. Duis feugiat rhoncus sem quis fermentum. Aenean augue est, volutpat eget ante pellentesque, tempor scelerisque felis. In ultrices fermentum risus. Aenean ac mi arcu. Quisque et massa et nunc sodales maximus. Etiam nec mi nec nunc auctor rutrum at in libero.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tempus leo, quis accumsan lorem. Nullam quis ligula quis augue tempor fringilla. Nulla egestas nunc laoreet viverra suscipit. Proin a bibendum dui. Proin nulla odio, tempus nec leo eu, feugiat sollicitudin arcu. Duis feugiat rhoncus sem quis fermentum. Aenean augue est, volutpat eget ante pellentesque, tempor scelerisque felis. In ultrices fermentum risus. Aenean ac mi arcu. Quisque et massa et nunc sodales maximus. Etiam nec mi nec nunc auctor rutrum at in libero.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tempus leo, quis accumsan lorem. Nullam quis ligula quis augue tempor fringilla. Nulla egestas nunc laoreet viverra suscipit. Proin a bibendum dui. Proin nulla odio, tempus nec leo eu, feugiat sollicitudin arcu. Duis feugiat rhoncus sem quis fermentum. Aenean augue est, volutpat eget ante pellentesque, tempor scelerisque felis. In ultrices fermentum risus. Aenean ac mi arcu. Quisque et massa et nunc sodales maximus. Etiam nec mi nec nunc auctor rutrum at in libero.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tempus leo, quis accumsan lorem. Nullam quis ligula quis augue tempor fringilla. Nulla egestas nunc laoreet viverra suscipit. Proin a bibendum dui. Proin nulla odio, tempus nec leo eu, feugiat sollicitudin arcu. Duis feugiat rhoncus sem quis fermentum. Aenean augue est, volutpat eget ante pellentesque, tempor scelerisque felis. In ultrices fermentum risus. Aenean ac mi arcu. Quisque et massa et nunc sodales maximus. Etiam nec mi nec nunc auctor rutrum at in libero.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tempus leo, quis accumsan lorem. Nullam quis ligula quis augue tempor fringilla. Nulla egestas nunc laoreet viverra suscipit. Proin a bibendum dui. Proin nulla odio, tempus nec leo eu, feugiat sollicitudin arcu. Duis feugiat rhoncus sem quis fermentum. Aenean augue est, volutpat eget ante pellentesque, tempor scelerisque felis. In ultrices fermentum risus. Aenean ac mi arcu. Quisque et massa et nunc sodales maximus. Etiam nec mi nec nunc auctor rutrum at in libero.",
+            "spans": []
+          },
+          {
+            "type": "heading4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tempus leo, quis accumsan lorem. Nullam quis ligula quis augue tempor fringilla. Nulla egestas nunc laoreet viverra suscipit. Proin a bibendum dui. Proin nulla odio, tempus nec leo eu, feugiat sollicitudin arcu. Duis feugiat rhoncus sem quis fermentum. Aenean augue est, volutpat eget ante pellentesque, tempor scelerisque felis. In ultrices fermentum risus. Aenean ac mi arcu. Quisque et massa et nunc sodales maximus. Etiam nec mi nec nunc auctor rutrum at in libero.",
+            "spans": []
+          }
+        ],
+        "columnSize": 6,
+        "spacerColumn": false
+      }
+    ],
+    "slice_type": "content_row"
+  },
+  {
+    "id": "content-row-all-columns",
+    "name": "All Columns",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ContentRow",
+    "primary": {
+      "gridSize": 12
+    },
+    "items": [
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "1",
+            "spans": []
+          }
+        ],
+        "columnSize": 1,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "2",
+            "spans": []
+          }
+        ],
+        "columnSize": 1,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "3",
+            "spans": []
+          }
+        ],
+        "columnSize": 1,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "4",
+            "spans": []
+          }
+        ],
+        "columnSize": 1,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "5",
+            "spans": []
+          }
+        ],
+        "columnSize": 1,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "6",
+            "spans": []
+          }
+        ],
+        "columnSize": 1,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "7",
+            "spans": []
+          }
+        ],
+        "columnSize": 1,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "8",
+            "spans": []
+          }
+        ],
+        "columnSize": 1,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "9",
+            "spans": []
+          }
+        ],
+        "columnSize": 1,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "10",
+            "spans": []
+          }
+        ],
+        "columnSize": 1,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "11",
+            "spans": []
+          }
+        ],
+        "columnSize": 1,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "12",
+            "spans": []
+          }
+        ],
+        "columnSize": 1,
+        "spacerColumn": false
+      }
+    ],
+    "slice_type": "content_row"
+  }
+]

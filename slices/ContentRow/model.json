@@ -1,0 +1,55 @@
+{
+  "id": "content_row",
+  "type": "SharedSlice",
+  "name": "ContentRow",
+  "description": "ContentRow",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "ContentRow",
+      "primary": {
+        "gridSize": {
+          "config": {
+            "label": "",
+            "placeholder": ""
+          },
+          "type": "Number"
+        }
+      },
+      "items": {
+        "columnContent": {
+          "type": "StructuredText",
+          "config": {
+            "label": "",
+            "id": "columnContent",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,rtl"
+          }
+        },
+        "columnSize": {
+          "type": "Number",
+          "config": {
+            "label": "",
+            "id": "columnSize",
+            "placeholder": ""
+          }
+        },
+        "spacerColumn": {
+          "type": "Boolean",
+          "config": {
+            "label": "",
+            "id": "spacerColumn",
+            "placeholder": "",
+            "placeholder_false": "false",
+            "placeholder_true": "true",
+            "default_value": true
+          }
+        }
+      }
+    }
+  ]
+}

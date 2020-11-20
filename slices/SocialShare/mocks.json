@@ -95,44 +95,6 @@
     "slice_type": "social_share"
   },
   {
-    "id": "social-share-email",
-    "name": "Email",
-    "docURL": "...",
-    "version": "sktwi1xtmkfgx8626",
-    "description": "SocialShare",
-    "primary": {
-      "type": "email",
-      "url": {
-        "link_type": "Web",
-        "url": "https://slicemachine.dev"
-      },
-      "color": "#fff",
-      "size": 30,
-      "round": true
-    },
-    "items": [],
-    "slice_type": "social_share"
-  },
-  {
-    "id": "social-share-email",
-    "name": "Email",
-    "docURL": "...",
-    "version": "sktwi1xtmkfgx8626",
-    "description": "SocialShare",
-    "primary": {
-      "type": "email",
-      "url": {
-        "link_type": "Web",
-        "url": "https://slicemachine.dev"
-      },
-      "color": "#fff",
-      "size": 30,
-      "round": true
-    },
-    "items": [],
-    "slice_type": "social_share"
-  },
-  {
     "id": "social-share-reddit",
     "name": "Reddit",
     "docURL": "...",

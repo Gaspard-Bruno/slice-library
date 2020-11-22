@@ -21,7 +21,7 @@ const linkResolver = () => {
   return '/'
 }
 
-const ContentRow = ({ slice }) => {
+const ContentRow = ({ slice, withTheme }) => {
   const gridSize = useMemo(() => slice?.primary?.gridSize, [slice])
   const columns = useMemo(() => slice?.items, [slice])
 
@@ -50,7 +50,7 @@ const ContentRow = ({ slice }) => {
   }
 
   return (
-    <section style={sectionStyles}>
+    <section style={sectionStyles} className={`content-row-slice ${withTheme ? 'theme' : ''}`}>
       <div style={containerStyles}>
         { columns.map((col, index) => renderColumn(col, index)) }
       </div>

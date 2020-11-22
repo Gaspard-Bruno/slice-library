@@ -41,6 +41,25 @@
             "placeholder_true": "true",
             "default_value": true
           }
+        },
+        "autoplay": {
+          "type": "Boolean",
+          "config": {
+            "label": "",
+            "id": "autoplay",
+            "placeholder": "",
+            "placeholder_false": "false",
+            "placeholder_true": "true",
+            "default_value": true
+          }
+        },
+        "color": {
+          "type": "Color",
+          "config": {
+            "label": "",
+            "id": "color",
+            "placeholder": ""
+          }
         }
       },
       "items": {}

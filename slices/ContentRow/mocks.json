@@ -369,5 +369,75 @@
       }
     ],
     "slice_type": "content_row"
+  },
+  {
+    "id": "content-row-theme",
+    "name": "With Theme",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ContentRow",
+    "primary": {
+      "gridSize": 12
+    },
+    "items": [
+      {
+        "columnContent": [
+          {
+            "type": "heading2",
+            "text": "Left Content",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Feugiat in fermentum posuere urna nec tincidunt praesent semper feugiat. Turpis in eu mi bibendum neque egestas. Vitae congue mauris rhoncus aenean vel elit scelerisque. Ultrices gravida dictum fusce ut placerat orci nulla. Rhoncus est pellentesque elit ullamcorper. Amet purus gravida quis blandit turpis cursus in hac. Lacus laoreet non curabitur gravida arcu. At tellus at urna condimentum mattis pellentesque id nibh. Nibh tellus molestie nunc non blandit. In iaculis nunc sed augue lacus viverra vitae congue. Nec nam aliquam sem et tortor consequat id. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Fringilla est ullamcorper eget nulla. Pulvinar pellentesque habitant morbi tristique senectus. Sit amet venenatis urna cursus eget nunc scelerisque. Cras ornare arcu dui vivamus arcu felis bibendum ut. Pharetra magna ac placerat vestibulum lectus. Habitant morbi tristique senectus et netus et.",
+            "spans": []
+          }
+        ],
+        "columnSize": 5,
+        "spacerColumn": false
+      },
+      {
+        "columnContent": [],
+        "columnSize": 1,
+        "spacerColumn": true
+      },
+      {
+        "columnContent": [
+          {
+            "type": "heading3",
+            "text": "Right Content",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Duis ultricies lacus sed turpis tincidunt id aliquet risus. Semper risus in hendrerit gravida rutrum quisque non tellus orci. Adipiscing commodo elit at imperdiet dui accumsan sit amet nulla. Ac auctor augue mauris augue neque. Pellentesque nec nam aliquam sem et tortor consequat id. At tellus at urna condimentum. Facilisis volutpat est velit egestas dui. Feugiat vivamus at augue eget arcu dictum varius duis at. Sed cras ornare arcu dui vivamus. Venenatis tellus in metus vulputate eu scelerisque felis. Felis bibendum ut tristique et egestas quis ipsum suspendisse. Hac habitasse platea dictumst quisque sagittis. Cras pulvinar mattis nunc sed blandit. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Lacinia quis vel eros donec ac odio tempor orci. Ultrices vitae auctor eu augue ut lectus arcu bibendum. Neque volutpat ac tincidunt vitae semper quis. Erat nam at lectus urna duis convallis convallis. Aliquam etiam erat velit scelerisque.",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Tincidunt eget nullam non nisi est sit amet facilisis. Enim ut sem viverra aliquet eget sit amet. Egestas tellus rutrum tellus pellentesque eu. Amet commodo nulla facilisi nullam. Porttitor lacus luctus accumsan tortor posuere. Non tellus orci ac auctor. Sollicitudin tempor id eu nisl nunc. Tortor condimentum lacinia quis vel eros. Lectus proin nibh nisl condimentum id venenatis a. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Pharetra diam sit amet nisl suscipit. Ut enim blandit volutpat maecenas volutpat. Tortor dignissim convallis aenean et tortor at risus. Eu consequat ac felis donec et. Tincidunt vitae semper quis lectus nulla at. Non pulvinar neque laoreet suspendisse interdum consectetur. Sed vulputate mi sit amet mauris commodo quis. Congue mauris rhoncus aenean vel elit scelerisque. Vulputate eu scelerisque felis imperdiet proin fermentum leo vel.",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Elementum nibh tellus molestie nunc non. Viverra adipiscing at in tellus integer feugiat. Aliquam ultrices sagittis orci a scelerisque purus semper eget duis. Mollis aliquam ut porttitor leo. At ultrices mi tempus imperdiet nulla malesuada pellentesque. Volutpat consequat mauris nunc congue nisi vitae suscipit. Viverra maecenas accumsan lacus vel. Aliquet lectus proin nibh nisl condimentum id venenatis a. Pellentesque nec nam aliquam sem et tortor consequat id porta. Odio morbi quis commodo odio aenean sed adipiscing.",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Montes nascetur ridiculus mus mauris vitae ultricies leo integer. Nisl purus in mollis nunc sed id semper risus in. Varius quam quisque id diam vel quam elementum pulvinar. Quis vel eros donec ac odio. Dignissim enim sit amet venenatis urna cursus eget nunc. Nunc scelerisque viverra mauris in aliquam sem fringilla ut. Vitae et leo duis ut diam. Risus nullam eget felis eget. Eu lobortis elementum nibh tellus molestie nunc non blandit. Risus commodo viverra maecenas accumsan lacus. Erat pellentesque adipiscing commodo elit at. Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Vehicula ipsum a arcu cursus vitae congue mauris.",
+            "spans": []
+          }
+        ],
+        "columnSize": 6,
+        "spacerColumn": false
+      }
+    ],
+    "slice_type": "content_row"
   }
 ]

@@ -11,7 +11,63 @@
         "url": "https://cdn.glitch.com/36cb8393-65c6-408d-a538-055ada20431b/Astronaut.glb?1542147958948"
       },
       "cameraControls": true,
-      "autoRotate": true
+      "autoRotate": true,
+      "autoplay": false
+    },
+    "items": [],
+    "slice_type": "model_viewer"
+  },
+  {
+    "id": "kebab-slice",
+    "name": "Kebab",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ModelViewer",
+    "primary": {
+      "model": {
+        "link_type": "Web",
+        "url": "https://modelviewer.dev/shared-assets/models/shishkebab.glb"
+      },
+      "cameraControls": true,
+      "autoRotate": true,
+      "autoplay": false
+    },
+    "items": [],
+    "slice_type": "model_viewer"
+  },
+  {
+    "id": "robot-slice",
+    "name": "Robot With Animation",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ModelViewer",
+    "primary": {
+      "model": {
+        "link_type": "Web",
+        "url": "https://modelviewer.dev/shared-assets/models/RobotExpressive.glb"
+      },
+      "cameraControls": true,
+      "autoRotate": true,
+      "autoplay": true
+    },
+    "items": [],
+    "slice_type": "model_viewer"
+  },
+  {
+    "id": "color-slice",
+    "name": "Astronaut With Color",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ModelViewer",
+    "primary": {
+      "model": {
+        "link_type": "Web",
+        "url": "https://cdn.glitch.com/36cb8393-65c6-408d-a538-055ada20431b/Astronaut.glb?1542147958948"
+      },
+      "cameraControls": true,
+      "autoRotate": true,
+      "autoplay": false,
+      "color": "#D24640"
     },
     "items": [],
     "slice_type": "model_viewer"

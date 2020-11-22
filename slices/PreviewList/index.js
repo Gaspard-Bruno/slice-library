@@ -29,7 +29,7 @@ const linkResolver = () => {
   return '/'
 }
 
-const PreviewList = ({ slice }) => {
+const PreviewList = ({ slice, withTheme }) => {
   const [selectedPreview, setSelectedPreview] = useState(null)
 
   const items = useMemo(() => slice?.items, [slice])
@@ -60,7 +60,7 @@ const PreviewList = ({ slice }) => {
   }
 
   return (
-    <section style={sectionStyles}>
+    <section style={sectionStyles} className={`preview-list ${withTheme ? 'theme' : ''}`}>
       <div style={listStyles}>
         { items.map((item, index) => renderItem(item, index)) }
 

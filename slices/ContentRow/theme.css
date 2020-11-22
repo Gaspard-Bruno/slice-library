@@ -1,0 +1,24 @@
+.content-row-slice.theme {
+  font-family: sans-serif;
+  color: #272838;
+}
+
+.content-row-slice.theme > div {
+  background: #F9F8F8;
+}
+
+.content-row-slice.theme h2 {
+  font-size: 25px;
+  line-height: 1.45;
+  color: #6B717E;
+}
+
+.content-row-slice.theme h3 {
+  line-height: 1.45;
+  color: #6B717E;
+}
+
+.content-row-slice.theme p {
+  font-size: 16px;
+  letter-spacing: 0.4px;
+}
